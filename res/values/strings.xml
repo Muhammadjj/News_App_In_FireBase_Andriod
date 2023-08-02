@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">News App With Firebase</string>
+
+    <string name="pk_new">PK_New</string>
+    <string name="world">World</string>
+    <string name="sport">Sport</string>
+    <string name="setting">Setting</string>
+    <string name="name">What Political Change in Pakistan Could Mean for its</string>
+    <string name="Link">Visit Site.</string>
+    <string name="islamic">Islamic</string>
+    <string name="sch_news">euro NEWS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter E_mail</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="login">Login</string>
+    <string name="signup_page">SignUp Page!</string>
+    <string name="best_internation_news_platefrom">Best Internation News Platefrom</string>
+    <string name="register">Register</string>
+</resources>

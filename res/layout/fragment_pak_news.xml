@@ -1,0 +1,23 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CFCFCF"
+    android:orientation="vertical"
+    tools:context="org.pk.cas.fragements.PakNews">
+
+    <!-- TODO: Update blank fragment layout -->
+    <WebView
+        android:id="@+id/webView_pk_news"
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/teal_200"
+        android:layout_height="20dp" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/pak_news_recycler_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>
